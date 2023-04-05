@@ -28,7 +28,7 @@
 - Criação de um projeto simples criando um mundo 3D com figuras geométricas e manipulações
 - **Erros encontrados e não corrigidos ainda**
 
-## Projeto 6: 3d-app-video-test
+## Projeto 6: [3d-app-video-test](./3d-app-video-test/)
 - Tutorial que funcionou: [How to use Three.js and React Native to render 3D Graphics in a Mobile App](https://www.youtube.com/watch?v=trCpbpA_8gk&ab_channel=RajatKumarGupta) utilizando Expo
 - Criação de um projeto simples exibindo um cubo
 - **FUNCIONOU**
