@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "3d-app-video-test",
+    "slug": "3d-app-video-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "3d-app-video-test"
+}
